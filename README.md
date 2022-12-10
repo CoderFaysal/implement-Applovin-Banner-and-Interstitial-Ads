@@ -27,8 +27,7 @@ implementation 'com.applovin:applovin-sdk:11.6.0'
 ```
  <meta-data android:name="applovin.sdk.key"
             android:value="@string/sdk"
-            />
-            
+            /> 
 ```
 
 <img src="https://i0.wp.com/www.techtutorpro.com/wp-content/uploads/2022/08/Applovin-Manifest.png?resize=696%2C493&ssl=1">
